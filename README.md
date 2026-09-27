@@ -2,31 +2,19 @@
 
 # 📌 Definição
 
-O **Sistema de Pesquisa de Opinião - TudoWeb** é um programa desenvolvido em Python para uma empresa de marketing que deseja realizar uma pesquisa com seus clientes e descobrir o grau de satisfação em relação ao atendimento prestado.
-
-O programa utiliza **estruturas de repetição** e **estruturas de decisão para coletar e analisar** as opiniões dos entrevistados.
+Esse sistema é um programa desenvolvido em Python para uma empresa de marketing que deseja realizar uma pesquisa com seus clientes e descobrir o grau de satisfação em relação ao atendimento prestado. O programa utiliza **estruturas de repetição** e **estruturas de decisão para coletar e analisar** as opiniões dos entrevistados.
 
 # 🎯 Objetivo
 
-O objetivo da atividade é desenvolver um programa em Python capaz de realizar uma pesquisa de opinião com **50 entrevistados**.
-
-Durante a pesquisa, o programa solicita o nome, idade e opinião de cada entrevistado sobre o atendimento recebido.
+O objetivo da atividade é desenvolver um programa em Python capaz de realizar uma pesquisa de opinião com **50 entrevistados**. Durante a pesquisa, o programa solicita o nome, idade e opinião de cada entrevistado sobre o atendimento recebido.
 
 As opções de opinião são:
-
 - **1 - EXCELENTE**
 - **2 - BOM**
 - **3 - RUIM**
 
-Ao final da pesquisa, o programa apresenta a quantidade de respostas EXCELENTE e RUIM.
-
-Também foram realizados testes com 10 entrevistados para validar o funcionamento do programa.
-
-# 🛠️ Tecnologias Utilizadas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+Ao final da pesquisa, o programa apresenta a quantidade de respostas **EXCELENTE** e **RUIM**. 
+Também foram realizados testes com **10 entrevistados** para validar o funcionamento do programa.
 
 # ⚙️ Funcionamento
 
@@ -76,7 +64,6 @@ Abaixo está o print da execução do programa com os entrevistados:
 Ao finalizar a pesquisa, o programa apresenta a quantidade de respostas EXCELENTE e RUIM:
   <img width="645" height="257" alt="image" src="https://github.com/user-attachments/assets/34fa941d-7d8b-4dca-bf85-439112f36bb0" />
 
-  
 # 📚 Conteúdos Utilizados
 
 Durante o desenvolvimento do projeto foram utilizados os seguintes conteúdos de programação:
@@ -87,6 +74,12 @@ Durante o desenvolvimento do projeto foram utilizados os seguintes conteúdos de
 - Para entrada de dados utlizei `input()`;
 - Para exibição das informações utilizei `print()`;
 - Pra conversão de dados utilizei `int()`.
+
+# 🛠️ Tecnologias Utilizadas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 
 # 👩‍💻 Autor
 
